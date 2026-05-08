@@ -1,6 +1,6 @@
 # 🚀 Frontend Web Development Projects
 ## ⭐ If you like this repository, consider giving it a star.
-This repository contains the projects I developed during my Web Development Internship at CodeSoft using HTML, CSS, and JavaScript.  
+This repository contains the projects I developed using HTML, CSS, and JavaScript.  
 These projects helped me improve my frontend development skills, responsive web design knowledge, and JavaScript fundamentals.
 
 # 📂 Projects Included
